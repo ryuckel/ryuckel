@@ -1,9 +1,12 @@
-# My Qiita posts
+# My Qiita 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/r_pg10/posts.svg)](http://qiita.com/r_pg10)
-# My Qiita contributions
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/r_pg10/contributions.svg)](http://qiita.com/r_pg10)
-# My Qiita followers
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/r_pg10/followers.svg)](http://qiita.com/r_pg10)
+
+# Summary
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryuckel&count_private=true&show_icons=true&theme=monokai)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuckel&layout=compact&theme=monokai)
 
 <!--
 **ryuckel/ryuckel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
