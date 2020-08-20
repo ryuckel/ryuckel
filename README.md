@@ -1,4 +1,9 @@
-### Hi there 👋
+# My Qiita posts
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/r_pg10/posts.svg)](http://qiita.com/r_pg10)
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/r_pg10/contributions.svg)](http://qiita.com/r_pg10)
+# My Qiita followers
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/r_pg10/followers.svg)](http://qiita.com/r_pg10)
 
 <!--
 **ryuckel/ryuckel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
